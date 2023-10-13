@@ -1,0 +1,34 @@
+body {
+    background-image: url("img.webp");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    margin-right: 350px;
+    background-attachment: fixed;
+    
+    background-color: #bcb4cf;
+}
+
+h1 {
+    color: #577cad;
+}
+
+button {
+    font-family: "courier new", helvetica, sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    border: 2px solid #8289af;
+    color: #5170bf;
+    box-shadow: 1px 1px 2px rgb(0 0 200 / 0.4);
+    border-radius: 10px;
+    padding: 3px 10px;
+    cursor: pointer;
+}
+
+p {
+    background: linear-gradient(to right, #a4a4d6, #a5acd9, white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: "courier new", helvetica, sans-serif;
+    letter-spacing: 1px;
+}
